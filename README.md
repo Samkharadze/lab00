@@ -15,10 +15,10 @@
 - [x] 9. Составить отчет и отправить ссылку личным сообщением в **Slack**
 
 ## Tutorial
-
+#check development environment
 ```sh
 $ cmake --version # Check of cmake version
-cmake --version
+cmake --version 3.7.2
 
 $ curl --version  # Check of curl version
 curl 7.52.1
